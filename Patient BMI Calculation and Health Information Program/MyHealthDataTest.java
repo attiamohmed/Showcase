@@ -4,8 +4,6 @@
  * @see Patient
  * @since 1.8
 */
-
-package w23assignment1;
 import java.util.Scanner;
 
 /**
