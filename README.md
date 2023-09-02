@@ -1,5 +1,5 @@
-# Project Repository
-## Showcase-JAVA-OOP
+# Showcase-JAVA-OOP
+## Project Repository
 
 Welcome to Showcase-JAVA-OOP repository! This repository hosts various Java projects designed to showcase different aspects of programming and software development. Each project within this repository serves as an individual module with its own unique features and objectives.
 
