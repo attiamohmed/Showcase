@@ -1,27 +1,53 @@
 # COVID-19 Statistics Calculator
 
-The **COVID-19 Statistics Calculator** is a Java program designed to assist in the analysis and presentation of COVID-19 patient data. With this tool, you can calculate and display essential statistics related to COVID-19 patients in different provinces over several months.
+This Java program calculates the average number of COVID-19 patients in different provinces based on provided data. It also displays patient data in a tabular format and calculates the total number of recovered patients for each month.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Code Overview](#code-overview)
+- [Requirements](#requirements)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
-The ongoing COVID-19 pandemic has made it crucial to monitor and analyze patient data to make informed decisions and track the progress of the disease. The **CovidStatistics** program provides a straightforward yet powerful way to process and present COVID-19 patient data. Its key features include:
+The `CovidStatistics` class in this program provides functionality to calculate the average number of COVID-19 patients in a specific province using a 2D array of patient data. Additionally, it displays patient data for each province and calculates the average number of patients for each province.
 
-### 1. Province-Specific Average Calculation
+## Usage
 
-You can calculate the average number of patients in a specific province over a period of several months. This feature allows health officials and researchers to understand the typical patient load in individual provinces.
+To use this program, follow these steps:
 
-### 2. Comprehensive Data Presentation
+1. Clone or download this repository.
+2. Compile the Java program using a Java development environment or command-line compiler.
+3. Run the compiled program.
 
-The program generates a table that displays the number of patients in each province for each month. This tabular representation of data makes it easy to visualize trends and variations over time.
+You can customize the patient data and province names in the `main` method to analyze different datasets.
 
-### 3. Province-Wide Averages
+## Code Overview
 
-In addition to individual province statistics, the program calculates and displays the average number of patients for each province. This provides insights into how different regions are impacted by the pandemic.
+The program consists of two main parts:
 
-### 4. Recovered Patients Summation
+1. `aveByProvince` Method:
+   - Calculates the average number of patients in a specified province based on the 2D array of patient data.
+   - Parameters:
+     - `patients`: A 2D array representing the number of patients on each day and in each province.
+     - `R`: The province's index for which the average will be determined.
 
-The program goes a step further by summing up the number of recovered patients for each month. This information is critical for assessing the recovery rate and the effectiveness of healthcare measures.
+2. `main` Method:
+   - Initializes patient information over several months for various provinces.
+   - Displays patient data in a table format, including the average number of patients for each province.
+   - Calculates and displays the total number of recovered patients for each month.
 
-Using the **CovidStatistics** program is straightforward. You can follow the provided instructions to compile and run the program on your local machine. Feel free to customize the patient data or program parameters to suit your specific use case.
+## Requirements
 
-In a time where data-driven decision-making is crucial, the **COVID-19 Statistics Calculator** offers a valuable tool for health professionals, researchers, and policymakers. By providing clear and concise information, this program contributes to our collective efforts to combat the pandemic effectively.
+- Java development environment or JDK installed.
+
+## Contributing
+
+Contributions to this project are welcome. Feel free to submit issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
