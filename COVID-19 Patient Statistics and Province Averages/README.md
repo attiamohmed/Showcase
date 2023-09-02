@@ -9,7 +9,6 @@ This Java program calculates the average number of COVID-19 patients in differen
 - [Code Overview](#code-overview)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -48,6 +47,3 @@ The program consists of two main parts:
 
 Contributions to this project are welcome. Feel free to submit issues or pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
