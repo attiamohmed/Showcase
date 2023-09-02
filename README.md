@@ -1,7 +1,7 @@
 # Project Repository
 ## Showcase-JAVA-OOP-
 
-Welcome to ShowcaseJAVA-OOP repository! This repository hosts various Java projects designed to showcase different aspects of programming and software development. Each project within this repository serves as an individual module with its own unique features and objectives.
+Welcome to Showcase-JAVA-OOP repository! This repository hosts various Java projects designed to showcase different aspects of programming and software development. Each project within this repository serves as an individual module with its own unique features and objectives.
 
 ## Table of Contents
 
@@ -16,22 +16,27 @@ This repository is a collection of Java projects developed to explore various pr
 
 ## Projects
 
-Here's a list of projects included in this repository:
+Here's a list of project folders included in this repository:
 
-1. CovidStatistics: Calculates the average number of COVID-19 patients in a specific province based on historical data.
+### COVID-19 Patient Statistics and Province Averages
 
-2. MyHealthDataTest: A program to input and validate user health data, compute BMI, and display the results.
+- [CovidStatistics](COVID-19%20Patient%20Statistics%20and%20Province%20Averages/CovidStatistics): Calculates the average number of COVID-19 patients in a specific province based on historical data.
 
-3. UsernameGenerator: A utility to generate unique student usernames based on user input.
+### Patient BMI Calculation and Health Information Program
 
-4. Driver: A Java program to collect user information and generate student usernames using the `UsernameGenerator` class.
+- [MyHealthDataTest](Patient%20BMI%20Calculation%20and%20Health%20Information%20Program/MyHealthDataTest): A program to input and validate user health data, compute BMI, and display the results.
+
+### Student Username Generator
+
+- [UsernameGenerator](Student%20Username%20Generator/UsernameGenerator): A utility to generate unique student usernames based on user input.
 
 
 ## Usage
 
-To use any of the projects in this repository, follow the individual project's README.md file for instructions on how to compile, run, and utilize the project. Each project may have its own specific dependencies and requirements, so make sure to review the project-specific documentation.
+To use any of the projects in this repository, follow the individual project folder's README.md file for instructions on how to compile, run, and utilize the project. Each project folder may have its own specific dependencies and requirements, so make sure to review the project-specific documentation.
 
 ## Contributing
 
 Contributions to this repository are welcome! If you have improvements, bug fixes, or new projects that you'd like to contribute, please create a pull request with your changes. Be sure to follow the guidelines outlined in the individual project README.md files.
 
+Thank you for visiting and exploring our projects!
