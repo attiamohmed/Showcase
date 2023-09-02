@@ -18,7 +18,7 @@ This repository is a collection of Java projects developed to explore various pr
 
 Here's a list of projects included in this repository:
 
-1. [CovidStatistics](CovidStatistics): Calculates the average number of COVID-19 patients in a specific province based on historical data.
+1. [COVID-19 Patient Statistics and Province Averages](CovidStatistics): Calculates the average number of COVID-19 patients in a specific province based on historical data.
 
 2. [MyHealthDataTest](MyHealthDataTest): A program to input and validate user health data, compute BMI, and display the results.
 
