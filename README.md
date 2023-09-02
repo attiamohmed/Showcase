@@ -18,13 +18,13 @@ This repository is a collection of Java projects developed to explore various pr
 
 Here's a list of projects included in this repository:
 
-1. (CovidStatistics): Calculates the average number of COVID-19 patients in a specific province based on historical data.
+1. CovidStatistics: Calculates the average number of COVID-19 patients in a specific province based on historical data.
 
-2. (MyHealthDataTest): A program to input and validate user health data, compute BMI, and display the results.
+2. MyHealthDataTest: A program to input and validate user health data, compute BMI, and display the results.
 
-3. (UsernameGenerator): A utility to generate unique student usernames based on user input.
+3. UsernameGenerator: A utility to generate unique student usernames based on user input.
 
-4. (Driver): A Java program to collect user information and generate student usernames using the `UsernameGenerator` class.
+4. Driver: A Java program to collect user information and generate student usernames using the `UsernameGenerator` class.
 
 
 ## Usage
