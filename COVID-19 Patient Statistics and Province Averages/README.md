@@ -5,9 +5,6 @@ This Java program, `CovidStatistics`, is designed to calculate and display the a
 ## Table of Contents
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Code Overview](#code-overview)
-- [Requirements](#requirements)
-- [License](#license)
 
 ## Introduction
 
