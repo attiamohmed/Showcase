@@ -1,5 +1,5 @@
 # Project Repository
-## Showcase-JAVA-OOP-
+## Showcase-JAVA-OOP
 
 Welcome to Showcase-JAVA-OOP repository! This repository hosts various Java projects designed to showcase different aspects of programming and software development. Each project within this repository serves as an individual module with its own unique features and objectives.
 
@@ -20,16 +20,15 @@ Here's a list of project folders included in this repository:
 
 ### COVID-19 Patient Statistics and Province Averages
 
-- [CovidStatistics](COVID-19%20Patient%20Statistics%20and%20Province%20Averages/CovidStatistics): Calculates the average number of COVID-19 patients in a specific province based on historical data.
+- CovidStatistics: Calculates the average number of COVID-19 patients in a specific province based on historical data.
 
 ### Patient BMI Calculation and Health Information Program
 
-- [MyHealthDataTest](Patient%20BMI%20Calculation%20and%20Health%20Information%20Program/MyHealthDataTest): A program to input and validate user health data, compute BMI, and display the results.
+- MyHealthDataTest: A program to input and validate user health data, compute BMI, and display the results.
 
 ### Student Username Generator
 
-- [UsernameGenerator](Student%20Username%20Generator/UsernameGenerator): A utility to generate unique student usernames based on user input.
-
+- UsernameGenerator: A utility to generate unique student usernames based on user input.
 
 ## Usage
 
@@ -39,4 +38,4 @@ To use any of the projects in this repository, follow the individual project fol
 
 Contributions to this repository are welcome! If you have improvements, bug fixes, or new projects that you'd like to contribute, please create a pull request with your changes. Be sure to follow the guidelines outlined in the individual project README.md files.
 
-Thank you for visiting and exploring our projects!
+Thank you for visiting and exploring my projects!
